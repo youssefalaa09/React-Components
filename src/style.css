@@ -1,0 +1,10 @@
+body{
+    font-family:'Archivo', sans-serif;
+}
+.container{
+    padding: 0 10px;
+    margin: 0 auto;
+}
+li{
+    padding-bottom: 10px;
+}
